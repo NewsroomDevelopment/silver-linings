@@ -1,1 +1,93 @@
-{}
+{
+  "headline": "Silver Linings",
+  "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/OOR6DSIECRH6RP4O3TGSCNACJE.png",
+  "top": [],
+  "body": [
+    {
+      "type": "text",
+      "value": "Over the past year, it’s been hard not to get lost in cloudy memories of what we should have, or could have done. In this tumultuous time, the collective and individual anxiety, grief, burnout, and isolation has made it difficult to recall the joys found in everyday life. Yet, in some ways, this year has granted us unique opportunities for self-reflection and mindfulness. Our team of illustrators has come together to illustrate how we’ve been getting through the semester and the year by recognizing those bright spots of creativity, joy, and growth."
+    },
+    {
+      "type": "text",
+      "value": "A “silver lining” refers to the shining edges of a cloud backlit by the sun; metaphorically, it means the small moments of hope, calm, and joy found in a dark time. We asked our illustrators to find and illustrate their silver linings, no matter how big or small, in the clouds of the past year. We hope that our silver linings inspire you to visualize your own, as you reflect on the moments that got you through the semester."
+    },
+    {
+      "type": "image",
+      "value": {
+        "width": "auto",
+        "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/I324CT2NZVBPRE5FDAHOLD5YYE.gif",
+        "caption": "",
+        "credit": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<b>Sadia:</b> I had to confront my anxiety a lot more during the pandemic. I have much to work on, but I think I’ve grown a bit in the process."
+    },
+    {
+      "type": "image",
+      "value": {
+        "width": "auto",
+        "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HJ7I342P6RE7HKVQC7S6YUJKWI.jpg",
+        "caption": "",
+        "credit": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<b>Carlos:</b> For my project I wanted to depict the sight of a literal silver lining. During the early 2020 lockdown, amidst the stress, isolation, and anxiety, I was also able to appreciate and take awe at the grandeur of natural occurrences such as this."
+    },
+    {
+      "type": "image",
+      "value": {
+        "width": "auto",
+        "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/FBX7FZR5EFCQVCZM7D7HAQNMJM.jpeg",
+        "caption": "",
+        "credit": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<b>Magan:</b> During the pandemic, I embraced the joy of cooking and baking! I got to perfect my bundt cake and bread making skills as well as try to recreate some of my grandma’s recipes."
+    },
+    {
+      "type": "image",
+      "value": {
+        "width": "auto",
+        "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/5HDTQ6ZWJBCHPGJVWNCHFM6RWE.jpeg",
+        "caption": "",
+        "credit": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<b>Liza:</b> Dead-eyed from too much screen time, I found refuge in nature. The woods were safe, grounding. As the world was falling apart, the flowers bloomed again, the creeks finally ran clear, the trees welcomed me home. After a month of isolation, a few of my high school friends and I formed a quarantine bubble. Crossing streams, laying in the grass, talking about everything, it was a chance to grow back together. This quarantine, I rediscovered the places and people that will forever be my home."
+    },
+    {
+      "type": "image",
+      "value": {
+        "width": "auto",
+        "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GDLYXYVKGNEZ7EC7ECDI4B4BCI.gif",
+        "caption": "",
+        "credit": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<b> Noelle: </b>One of the positive things about this last year is that I’ve been able to paint some lovely, socially distanced, plein air watercolors around NYC."
+    },
+    {
+      "type": "image",
+      "value": {
+        "width": "auto",
+        "asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/GDLYXYVKGNEZ7EC7ECDI4B4BCI.gif",
+        "caption": "",
+        "credit": ""
+      }
+    },
+    {
+      "type": "text",
+      "value": "<b>Jules: </b>During the pandemic, I’ve had more time to appreciate the bird population at home in Wisconsin. Pre-COVID, I wasn’t at the window often enough to learn the species that frequent our backyard, but I have enjoyed getting to know our avian visitors."
+    }
+  ]
+}
